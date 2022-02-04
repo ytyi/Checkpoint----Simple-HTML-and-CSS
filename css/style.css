@@ -103,7 +103,8 @@ video{
 
 
 /*Added this so the links stay the same color*/
-a:link {text-decoration:none;}
+a:link {text-decoration:none;
+	color:grey}
 a:visited{color:grey}
 a:hover{
 	color:white;
